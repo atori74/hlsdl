@@ -1,6 +1,8 @@
 # hlsdl
 
-Download HLS streaming.  
+Relying on ffmpeg.
+
+CLI tool for downloading HLS streaming.   
 Support parallel downloads and queueing.
 
 ```sh
